@@ -1,54 +1,140 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/foodie)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/foodie?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/foodie?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/5XnX83goEZo?style=social)](https://youtu.be/5XnX83goEZo)
 
-  <br />
-  <br />
+![GitHub repo size](https://img.shields.io/github/repo-size/your-username/foodie-master)
+![GitHub stars](https://img.shields.io/github/stars/your-username/foodie-master?style=social)
+![GitHub forks](https://img.shields.io/github/forks/your-username/foodie-master?style=social)
 
-  <h2 align="center">Foodie - Fast food website</h2>
+<br />
+<br />
 
-  Foodie is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+<h2 align="center">🍔 Foodie Master – Fast Food Website</h2>
 
-  <a href="https://codewithsadee.github.io/foodie/"><strong>➥ Live Demo</strong></a>
+**Foodie Master** is a fully responsive fast food website designed to showcase food items, menus, and modern UI layouts.
+It is optimized for **all screen sizes** and built using **HTML, CSS, and JavaScript**.
+
+🚀 Clean UI • 📱 Mobile Friendly • ⚡ Lightweight
+
+<a href="#"><strong>➥ Live Demo (Coming Soon)</strong></a>
 
 </div>
 
-<br />
+---
 
-### Demo Screeshots
+## 📸 Demo Screenshots
 
-![Foodie Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+> Add your screenshots inside the `readme-images` folder
 
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **Foodie** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/foodie.git
+```md
+![Foodie Master Desktop View](./readme-images/desktop.png)
+![Foodie Master Mobile View](./readme-images/mobile.png)
 ```
 
-Windows:
+---
 
-```bash
-git clone https://github.com/codewithsadee/foodie.git
+## 🧰 Tech Stack
+
+* **HTML5** – Structure of the website
+* **CSS3** – Styling, layout & responsiveness
+* **JavaScript (Vanilla JS)** – Interactivity and dynamic behavior
+
+---
+
+## ✨ Features
+
+* Fully responsive design (Desktop, Tablet, Mobile)
+* Attractive food menu layout
+* Smooth scrolling and UI interactions
+* Clean and beginner‑friendly code structure
+* Easy to customize and extend
+
+---
+
+## 📂 Project Structure
+
+```
+foodie-master/
+│
+├── assets/              # Images, icons, fonts
+├── readme-images/       # Screenshots for README
+├── index.html           # Main HTML file
+├── favicon.svg          # Website favicon
+├── index.txt            # Notes / reference file
+├── style-guide.md       # UI & design guide
+└── README.md            # Project documentation
 ```
 
-### Contact
+---
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+## ⚙️ Prerequisites
 
-### License
+Before running this project, make sure you have:
 
-This project is **free to use** and does not contains any license.
+* A modern web browser (Chrome, Edge, Firefox)
+* [Git](https://git-scm.com/downloads) installed (optional, for cloning)
+
+---
+
+## ▶️ Run Locally
+
+### Clone the repository
+
+**Linux / macOS**
+
+```bash
+sudo git clone https://github.com/your-username/foodie-master.git
+```
+
+**Windows**
+
+```bash
+git clone https://github.com/your-username/foodie-master.git
+```
+
+### Open the project
+
+```bash
+cd foodie-master
+```
+
+Now open `index.html` in your browser.
+
+---
+
+## 📌 Future Improvements
+
+* Add backend support (Node.js / Firebase)
+* Add cart and order functionality
+* Add animations and transitions
+* Improve accessibility (ARIA, keyboard navigation)
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the project
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Open a Pull Request
+
+---
+
+## 📬 Contact
+
+If you want to connect or give feedback:
+
+* GitHub: **your-username**
+* Email: **[your-email@example.com](mailto:your-email@example.com)**
+
+---
+
+## 📄 License
+
+This project is **free to use** for learning and personal projects.
+No license is applied.
+
+---
+
+⭐ If you like this project, don’t forget to **star the repository**!
