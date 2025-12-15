@@ -1,11 +1,4 @@
-<div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/foodie-master)
-![GitHub stars](https://img.shields.io/github/stars/your-username/foodie-master?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/foodie-master?style=social)
-
-<br />
-<br />
 
 <h2 align="center">🍔 Foodie Master – Fast Food Website</h2>
 
@@ -19,18 +12,6 @@ It is optimized for **all screen sizes** and built using **HTML, CSS, and JavaSc
 </div>
 
 ---
-
-## 📸 Demo Screenshots
-
-> Add your screenshots inside the `readme-images` folder
-
-```md
-![Foodie Master Desktop View](./readme-images/desktop.png)
-![Foodie Master Mobile View](./readme-images/mobile.png)
-```
-
----
-
 ## 🧰 Tech Stack
 
 * **HTML5** – Structure of the website
@@ -70,7 +51,6 @@ foodie-master/
 Before running this project, make sure you have:
 
 * A modern web browser (Chrome, Edge, Firefox)
-* [Git](https://git-scm.com/downloads) installed (optional, for cloning)
 
 ---
 
@@ -121,12 +101,6 @@ Contributions are welcome!
 
 ---
 
-## 📬 Contact
-
-If you want to connect or give feedback:
-
-* GitHub: **your-username**
-* Email: **[your-email@example.com](mailto:your-email@example.com)**
 
 ---
 
